@@ -71,26 +71,6 @@ make
 
 ---
 
-## 📆 File Structure
-
-```
-WeatherApp/
-├── src/
-│   ├── main.cpp
-│   ├── controller.cpp/h
-│   ├── weatherfetcher.cpp/h
-│   ├── consoleprinter.cpp/h
-│   ├── cache.cpp/h
-│   ├── weatherdata.h
-├── include/
-│   ├── argparse.hpp
-│   ├── json.hpp
-├── CMakeLists.txt
-├── README.md
-```
-
----
-
 ## 🌐 API Info
 
 - Uses `https://wttr.in/<city>?format=j1` endpoint to fetch JSON-formatted weather.
