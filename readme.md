@@ -6,7 +6,7 @@ A simple C++ console application to fetch the current weather for a given city u
 
 ## 🔧 Build Instructions
 
-### Requirements:
+### Libs:
 
 - CMake >= 3.16
 - C++17 or later
